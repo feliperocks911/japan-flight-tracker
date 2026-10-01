@@ -1,0 +1,20 @@
+{
+  "origin": "DFW",
+  "destinations": ["HND", "NRT"],
+  "adults": 3,
+  "cabin_class": "economy",
+  "max_stops": 1,
+  "currency": "USD",
+  "date_pairs": [
+    ["2027-10-01", "2027-10-16"],
+    ["2027-10-02", "2027-10-17"],
+    ["2027-10-08", "2027-10-23"],
+    ["2027-10-09", "2027-10-24"]
+  ],
+  "timezone": "America/Chicago",
+  "reset_hour": 8,
+  "alert_price_per_person": 900,
+  "alert_drop_percent": 20,
+  "sheet_tab": "Flight History",
+  "allow_test_fares": false
+}
